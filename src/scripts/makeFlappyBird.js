@@ -9,7 +9,7 @@ export default function (main) {
       height: 24,
       canvasX: 10,
       canvasY: 50,
-      jumping: 4.6,
+      jumping: 3.5,
 
       jump() {
         flappyBird.speed = -flappyBird.jumping
