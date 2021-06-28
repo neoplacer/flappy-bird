@@ -15,7 +15,7 @@ export default function (main) {
         flappyBird.speed = -flappyBird.jumping
       },
 
-      gravity: 0.25,
+      gravity: 0.2,
       speed: 0,
 
       update() {
